@@ -278,29 +278,30 @@ int main()
 
 **Output :**
 
-![alt text](<Screenshot 2025-09-26 134735.png>)
+![alt text](<program to perform.png>)
 
-![alt text](<Screenshot 2025-09-26 134715.png>)
+
+![alt text](1.png)
 
 **Translation**
 
-![alt text](<Screenshot 2025-09-26 135002.png>)
+![alt text](translation.png)
 
 **Scaling**
 
-![alt text](<Screenshot 2025-09-26 141946.png>)
+![alt text](scaling.png)
 
 **Rotation**
 
-![alt text](<Screenshot 2025-09-26 141959.png>)
+![alt text](rotation.png)
 
 **Reflection**
 
-![alt text](<Screenshot 2025-09-26 142010.png>)
+![alt text](reflection.png)
 
 **Shearing**
 
-![alt text](<Screenshot 2025-09-26 142022.png>)
+![alt text](shearing.png)
 
 **Result :**
 
